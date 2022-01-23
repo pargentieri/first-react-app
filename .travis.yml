@@ -6,4 +6,4 @@ services:
   - mongodb
 
 install: npm install
-script: npm run start
+script: npm run start  
